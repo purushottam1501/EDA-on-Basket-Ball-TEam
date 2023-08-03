@@ -1,1 +1,1 @@
-# EDA-on-Basket-Ball-TEam
+# EDA-on-Basket-Ball-Team
